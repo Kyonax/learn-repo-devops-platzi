@@ -20,11 +20,35 @@ certain tools, technologies, and certificates." src="github/light.png">
   </a>
 </p>
 
-# DevOps & Cloud Computing Course
-Learn how to deploy your applications quickly and securely, and get to know the main tools and services from various cloud providers.
+<h3 align="center">DevOps & Cloud Computing Course</h3>
+<p align="center">
+"Learn how to deploy your applications quickly and securely, and get to know the main tools and services from various cloud providers."
 
-## Introduction
-In this path, you will learn about server administration and the main tools used in DevOps to scale your application quickly and securely.
+platzi course ~ kyo docs
+</p>
+
+# Table of Contents
+- [Summary](#summary)
+- [Curriculum](#curriculum)
+
+
+# Summary
+This 'learn-repo' is a **full self-education course in cloud computing** using the **Platzi's DevOps y Cloud Computing course** notes and open source projects using the technologies learned, made by **Kyonax** all in the same repo, with the mission to create an education background to support or validate the knowledge and experience with the technologies and tools dedicated to **Cloud Computing.**
+
+**Organization**. Course education structure:
+- *Intro DevOps y Cloud Computing*
+- *Specialization*
+- *Special Certifications*
+- *Cybersecurity*
+- *Complementary Skills*
+
+# Curriculum
+**Curriculum version**: `0.1`
+- [Intro DevOps & Cloud Computing](#intro-devops-&-cloud-computing)
+  - [DevOps](#devops)
+
+## Intro DevOps & Cloud Computing
+Description: "In this path, you will learn about server administration and the main tools used in DevOps to scale your application quickly and securely."
 
 ### DevOps
-Learn about the key tools for automating your processes and deploying your application.
+Description: "Learn about the key tools for automating your processes and deploying your application."
