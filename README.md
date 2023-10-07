@@ -25,3 +25,6 @@ Learn how to deploy your applications quickly and securely, and get to know the 
 
 ## Introduction
 In this path, you will learn about server administration and the main tools used in DevOps to scale your application quickly and securely.
+
+### DevOps
+Learn about the key tools for automating your processes and deploying your application.
