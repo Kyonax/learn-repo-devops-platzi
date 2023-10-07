@@ -26,7 +26,7 @@ certain tools, technologies, and certificates." src="github/light.png">
 
 
 # Summary
-This `learn-repo` is a **full self-education course in cloud computing** using the **Platzi's DevOps y Cloud Computing course** notes and open source projects using the technologies learned, made by **Kyonax** all in the same repo, with the mission to create an education background to support or validate the knowledge and experience with the technologies and tools dedicated to **Cloud Computing.**
+This `learn-repo` is a **documentation about the self-education course in cloud computing** taken in the **Platzi's DevOps y Cloud Computing Course** complementing it with open source projects using the technologies learned, with the mission to create an educational background to support or validate the knowledge and experience with the technologies and tools dedicated to **Cloud Computing.**
 
 This repo is NOT replacing or transcribing any information that you can find in the actual course [Platzi DevOps y Cloud Computing](https://platzi.com/escuela/devops-cloud/), the repo is just a curriculum to show what I learned in the Platzi course, and to show what I can build with the technologies learned in it.
 
