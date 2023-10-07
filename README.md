@@ -20,20 +20,15 @@ certain tools, technologies, and certificates." src="github/light.png">
   </a>
 </p>
 
-<h3 align="center">DevOps & Cloud Computing Course</h3>
-<p align="center">
-"Learn how to deploy your applications quickly and securely, and get to know the main tools and services from various cloud providers."
-
-platzi course ~ kyo docs
-</p>
-
 # Table of Contents
 - [Summary](#summary)
 - [Curriculum](#curriculum)
 
 
 # Summary
-This 'learn-repo' is a **full self-education course in cloud computing** using the **Platzi's DevOps y Cloud Computing course** notes and open source projects using the technologies learned, made by **Kyonax** all in the same repo, with the mission to create an education background to support or validate the knowledge and experience with the technologies and tools dedicated to **Cloud Computing.**
+This `learn-repo` is a **full self-education course in cloud computing** using the **Platzi's DevOps y Cloud Computing course** notes and open source projects using the technologies learned, made by **Kyonax** all in the same repo, with the mission to create an education background to support or validate the knowledge and experience with the technologies and tools dedicated to **Cloud Computing.**
+
+This repo is NOT replacing or transcribing any information that you can find in the actual course [Platzi DevOps y Cloud Computing](https://platzi.com/escuela/devops-cloud/), the repo is just a curriculum to show what I learned in the Platzi course, and to show what I can build with the technologies learned in it.
 
 **Organization**. Course education structure:
 - *Intro DevOps y Cloud Computing*
@@ -48,7 +43,7 @@ This 'learn-repo' is a **full self-education course in cloud computing** using t
   - [DevOps](#devops)
 
 ## Intro DevOps & Cloud Computing
-Description: "In this path, you will learn about server administration and the main tools used in DevOps to scale your application quickly and securely."
+In this path, you will learn about server administration and the main tools used in DevOps to scale your application quickly and securely.
 
 ### DevOps
-Description: "Learn about the key tools for automating your processes and deploying your application."
+Learn about the key tools for automating your processes and deploying your application.
