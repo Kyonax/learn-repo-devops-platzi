@@ -19,3 +19,12 @@ certain tools, technologies, and certificates." src="github/light.png">
     </picture>
   </a>
 </p>
+
+---
+
+<h1>DevOps & Cloud Computing Course<h1/>
+ 
+Course Description:
+```hs
+Aprende cómo desplegar tus aplicaciones de forma rápida y segura y conoce las principales herramientas y servicios de los diversos proveedores de nube.
+```
