@@ -21,10 +21,7 @@ certain tools, technologies, and certificates." src="github/light.png">
 </p>
 
 # DevOps & Cloud Computing Course
+Learn how to deploy your applications quickly and securely, and get to know the main tools and services from various cloud providers.
 
-Course Description:
-```hs
-Aprende cómo desplegar tus aplicaciones de forma rápida
-y segura y conoce las principales herramientas y
-servicios de los diversos proveedores de nube.
-```
+## Introduction
+In this path, you will learn about server administration and the main tools used in DevOps to scale your application quickly and securely.
