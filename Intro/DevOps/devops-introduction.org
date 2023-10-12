@@ -5,6 +5,7 @@
   - [[#welcome--basic-concepts][Welcome & Basic Concepts]]
   - [[#level-of-companies-maturation-according-to-devops][Level of companies maturation according to DevOps]]
   - [[#taks-of-a-devops-role][Taks of a DevOps Role]]
+  - [[#skills--knowledge][Skills & Knowledge]]
 
 ** Welcome & Basic Concepts
 What are "DevOps", exercises, tools, and basic concepts.
@@ -32,34 +33,79 @@ DevOps is a Culture of continuous improvement in Software Development also a cul
 ** Level of companies maturation according to DevOps
 "Companies are like living beings"
 
-- Companies starting in DevOps.
-  - Know what are they doing.
-  - Create DevOps plans and strategies.
-  - Convince to the Dev team adapt to the new plans and Strategies.
-- Companies migrating to Cloud Services.
-  - Create great migrations plans for their Software.
-- Companies that need to ensure the quality of their software.
-  - Plans and Quality standarts of projects and Software.
-  - Strategies & Testing.
-- Companies starting a new project and wish a DevOps Team.
-  - Talk with the Dev Teams and ensure what are the best strategies and tools for their Software.
+- Companies starting in DevOps
+  - Know what are they doing
+  - Create DevOps plans and strategies
+  - Convince to the Dev team adapt to the new plans and Strategies
+- Companies migrating to Cloud Services
+  - Create great migrations plans for their Software
+- Companies that need to ensure the quality of their software
+  - Plans and Quality standarts of projects and Software
+  - Strategies & Testing
+- Companies starting a new project and wish a DevOps Team
+  - Talk with the Dev Teams and ensure what are the best strategies and tools for their Software
   - Propose and Create!
 
 *** Types of Companies
-- A Company that mantains a unique Software.
-    - Tools and Strategies focused in only one solution, language, and problems.
-- A Company that mantains multiple Applications.
-    - More applications means higher complexity in the DevOps role.
-- A Company that offer DevOps Services.
-    - Multiple Pathlines and Multiple challenges.
-- A Company that mantains multiple infrastructures.
-    - "Infrastructure like Code" - Automate Formats in Cloud Services.
-      Automate Infrastructure Deployments.
+- A Company that mantains a unique Software
+    - Tools and Strategies focused in only one solution, language, and problems
+- A Company that mantains multiple Applications
+    - More applications means higher complexity in the DevOps role
+- A Company that offer DevOps Services
+    - Multiple Pathlines and Multiple challenges
+- A Company that mantains multiple infrastructures
+    - "Infrastructure like Code" - Automate Formats in Cloud Services
+      Automate Infrastructure Deployments
 
 The tasks, tools, and strategies will change on each company depending in the product or service of it.
 
 ** Taks of a DevOps Role
-- Deployment Automation.
-  - Move the code from a place to another. In an automatic way.
-- Infrastructure Automation.
-  - Take the infrastructure of a service or an app and deploy it in a Cloud Provider.
+- Deployment Automation
+  - Move the code from a place to another. In an automatic way
+- Infrastructure Automation
+  - Take the infrastructure of a service or an app and deploy it in a Cloud Provider
+- Implementation of Analysis and Monitoring tools
+  - Know what is the state of the app or service
+- Implementation of Testing and Security
+
+The DevOps role is focusing to help and automate strategies to improve the quality and the performance of the applications or services.
+
+** Skills & Knowledge
+- Systems Administration - Lynux OS
+  - Folders system
+  - How to manage apps and packages
+  - Managment of environment variables
+  - Files manipulation
+- Coding - Python, GO, Bash Scripting
+  - Basic levels of programming and coding
+  - Apps commands
+  - How to read Errors Logs
+- Web Services
+  - Basic Concepts (protocols, ports)
+  - Server Management (create, logs reading, testing)
+- Cloud Services
+  - Basic Concepts (virtual machines, networks, storage)
+  - Knowledge of perms management
+  - CLI Cloud (command line interface)
+- Docker
+  - Docker Commands
+  - Create docker files
+  - How to manipulate the Docker Registry
+  - Read Logs
+- Deployment processes
+  - Orchestration tools
+  - Environment manipulation
+  - Environment Variables manipulation
+  - Read Logs
+- Tools to Learn
+  - DEV Concepts
+  - Lynux OS
+  - Networking and Security
+  - CI/CD
+  - AWS Services
+  - Language & Scripting
+  - Docker
+  - Container orchestration
+  - Monitoring
+  - Code infrastructure
+  - GIT - Versions Controls
