@@ -80,24 +80,9 @@ The DevOps role is focusing to help and automate strategies to improve the quali
 - Cloud Services
   | Basic Concepts of VM, Networks, Storage | Knowledge of Perms Management | CLI Cloud (command line, terminal) |
 - Docker
-  - Docker Commands
-  - Create docker files
-  - How to manipulate the Docker Registry
-  - Read Logs
+  | Docker Commands | Create Files | Docker Registry manipulation | Read Logs |
 - Deployment processes
-  - Orchestration tools
-  - Environment manipulation
-  - Environment Variables manipulation
-  - Read Logs
+  | Orchestration Tools | Environment Manipulation | Environment Variables Manipulation | Read Logs |
 - Tools to Learn
-  - DEV Concepts
-  - Lynux OS
-  - Networking and Security
-  - CI/CD
-  - AWS Services
-  - Language & Scripting
-  - Docker
-  - Container orchestration
-  - Monitoring
-  - Code infrastructure
-  - GIT - Versions Controls
+  | Dev Concepts | Lynux OS                | Networking & Security | CI/CD               | AWS Services | Language & Scripting |
+  | Docker       | Container Orchestration | Monitoring            | Code Infrastructure | GIT          |                      |
