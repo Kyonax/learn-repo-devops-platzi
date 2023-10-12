@@ -72,10 +72,7 @@ The DevOps role is focusing to help and automate strategies to improve the quali
 
 ** Skills & Knowledge
 - Systems Administration - Lynux OS
-  - Folders system
-  - How to manage apps and packages
-  - Managment of environment variables
-  - Files manipulation
+  | Folders System | How to manage Apps and Packages | Management of Environment Variables | Files Manipulation |
 - Coding - Python, GO, Bash Scripting
   - Basic levels of programming and coding
   - Apps commands
