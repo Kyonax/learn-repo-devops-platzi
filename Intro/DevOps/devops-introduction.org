@@ -74,16 +74,11 @@ The DevOps role is focusing to help and automate strategies to improve the quali
 - Systems Administration - Lynux OS
   | Folders System | How to manage Apps and Packages | Management of Environment Variables | Files Manipulation |
 - Coding - Python, GO, Bash Scripting
-  - Basic levels of programming and coding
-  - Apps commands
-  - How to read Errors Logs
+  | Programming & Coding | Apps Commands | How to read Logs |
 - Web Services
-  - Basic Concepts (protocols, ports)
-  - Server Management (create, logs reading, testing)
+  | Basic Concepts of Protocols and Ports | Server Management (create, logs reading, testing) |
 - Cloud Services
-  - Basic Concepts (virtual machines, networks, storage)
-  - Knowledge of perms management
-  - CLI Cloud (command line interface)
+  | Basic Concepts of VM, Networks, Storage | Knowledge of Perms Management | CLI Cloud (command line, terminal) |
 - Docker
   - Docker Commands
   - Create docker files
