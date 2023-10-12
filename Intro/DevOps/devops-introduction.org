@@ -2,10 +2,11 @@
 #+AUTHOR: Kyonax - Cristian Moreno
 
 * Table of Contents :toc:
-  - [[#course-estructure][Course Estructure]]
+  - [[#welcome--basic-concepts][Welcome & Basic Concepts]]
+  - [[#level-of-companies-maturation-according-to-devops][Level of companies maturation according to DevOps]]
+  - [[#taks-of-a-devops-role][Taks of a DevOps Role]]
 
-** Course Estructure
-*** Welcome & Basic Concepts
+** Welcome & Basic Concepts
 What are "DevOps", exercises, tools, and basic concepts.
 
 #+BEGIN_QUOTE
@@ -28,7 +29,7 @@ What are Cloud Providers? "A could Service Provider, or CSP, is an IT company th
 
 DevOps is a Culture of continuous improvement in Software Development also a culture that companies transformed into a role.
 
-*** Level of companies maturation according to DevOps
+** Level of companies maturation according to DevOps
 "Companies are like living beings"
 
 - Companies starting in DevOps.
@@ -44,7 +45,7 @@ DevOps is a Culture of continuous improvement in Software Development also a cul
   - Talk with the Dev Teams and ensure what are the best strategies and tools for their Software.
   - Propose and Create!
 
-**** Types of Companies
+*** Types of Companies
 - A Company that mantains a unique Software.
     - Tools and Strategies focused in only one solution, language, and problems.
 - A Company that mantains multiple Applications.
@@ -57,7 +58,7 @@ DevOps is a Culture of continuous improvement in Software Development also a cul
 
 The tasks, tools, and strategies will change on each company depending in the product or service of it.
 
-*** Taks of a DevOps Role
+** Taks of a DevOps Role
 - Deployment Automation.
   - Move the code from a place to another. In an automatic way.
 - Infrastructure Automation.
