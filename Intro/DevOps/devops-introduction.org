@@ -1,2 +1,30 @@
 #+TITLE: DevOps Introduction Course
 #+AUTHOR: Kyonax - Cristian Moreno
+
+* Table of Contents :toc:
+- [[#course-estructure][Course Estructure]]
+  - [[#welcome--basic-concepts][Welcome & Basic Concepts]]
+
+* Course Estructure
+** Welcome & Basic Concepts
+What are "DevOps", exercises, tools, and basic concepts.
+
+#+BEGIN_QUOTE
+What is DevOps? "Is the Combination of Cultural Philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market."
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+What is Monolithic Architecture? "Is the traditional unified model for the design of a sofware program"
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+What are Microservices? "also known as the Microservice Architecture is an architectural style that structures an application as a Collection of services."
+
+This type of architecture could be an application or website build of multiple individual services or functions. This type of architecture demands a high cost of hardware server resources a solution for this was the creation of "Docker" an app that creates containers for the micro services, containers that could be unified and modified to consume less hardware resources.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+What are Cloud Providers? "A could Service Provider, or CSP, is an IT company that provides on-demand, scalable computing resources like computing power, data storage, or applications over the internet. Typically, cloud-base service models are defined as IaaS (infrastructure as a service), PaaS (platform as a service), or SaaS (software as a service)."
+#+END_QUOTE
+
+- DevOps: *"Culture of continuous improvement in Software Development"*
