@@ -46,4 +46,5 @@ This repo is NOT replacing or transcribing any information that you can find in 
 In this path, you will learn about server administration and the main tools used in DevOps to scale your application quickly and securely.
 
 ### DevOps
-Learn about the key tools for automating your processes and deploying your application.
+Learn about the key tools for automating your processes and deploying your application. More information on the next ORG Files:
+ - [[Intro/DevOps/devops-introduction.org][DevOps Introduction Course]]
