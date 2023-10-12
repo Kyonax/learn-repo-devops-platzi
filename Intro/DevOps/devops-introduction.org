@@ -2,11 +2,10 @@
 #+AUTHOR: Kyonax - Cristian Moreno
 
 * Table of Contents :toc:
-- [[#course-estructure][Course Estructure]]
-  - [[#welcome--basic-concepts][Welcome & Basic Concepts]]
+  - [[#course-estructure][Course Estructure]]
 
-* Course Estructure
-** Welcome & Basic Concepts
+** Course Estructure
+*** Welcome & Basic Concepts
 What are "DevOps", exercises, tools, and basic concepts.
 
 #+BEGIN_QUOTE
@@ -27,4 +26,4 @@ This type of architecture could be an application or website build of multiple i
 What are Cloud Providers? "A could Service Provider, or CSP, is an IT company that provides on-demand, scalable computing resources like computing power, data storage, or applications over the internet. Typically, cloud-base service models are defined as IaaS (infrastructure as a service), PaaS (platform as a service), or SaaS (software as a service)."
 #+END_QUOTE
 
-- DevOps: *"Culture of continuous improvement in Software Development"*
+- DevOps: "Culture of continuous improvement in Software Development"
