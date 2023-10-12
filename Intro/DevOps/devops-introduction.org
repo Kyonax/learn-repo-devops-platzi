@@ -27,3 +27,37 @@ What are Cloud Providers? "A could Service Provider, or CSP, is an IT company th
 #+END_QUOTE
 
 - DevOps: "Culture of continuous improvement in Software Development"
+  "DevOps is a culture that companies transformed into a role"
+
+*** Level of companies maturation according to DevOps
+"Companies are like living beings"
+
+- Companies starting in DevOps.
+  - Know what are they doing.
+  - Create DevOps plans and strategies.
+  - Convince to the Dev team adapt to the new plans and Strategies.
+- Companies migrating to Cloud Services.
+  - Create great migrations plans for their Software.
+- Companies that need to ensure the quality of their software.
+  - Plans and Quality standarts of projects and Software.
+  - Strategies & Testing.
+- Companies starting a new project and wish a DevOps Team.
+  - Talk with the Dev Teams and ensure what are the best strategies and tools for their Software.
+  - Propose and Create!
+
+**** Types of Companies
+#1 A Company that mantains a unique Software.
+    - Tools and Strategies focused in only one solution, language, and problems.
+#2 A Company that mantains multiple Applications.
+    - More applications means higher complexity in the DevOps role.
+#3 A Company that offer DevOps Services.
+    - Multiple Pathlines and Multiple challenges.
+#4 A Company that mantains multiple infrastructures.
+    - "Infrastructure like Code" - Automate Formats in Cloud Services.
+      Automate Infrastructure Deployments.
+
+The tasks, tools, and strategies will change on each company depending in the product or service of it.
+
+*** Taks of a DevOps Role
+- Deployment Automation.
+- Infrastructure Automation.
