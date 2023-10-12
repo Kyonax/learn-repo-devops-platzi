@@ -26,8 +26,7 @@ This type of architecture could be an application or website build of multiple i
 What are Cloud Providers? "A could Service Provider, or CSP, is an IT company that provides on-demand, scalable computing resources like computing power, data storage, or applications over the internet. Typically, cloud-base service models are defined as IaaS (infrastructure as a service), PaaS (platform as a service), or SaaS (software as a service)."
 #+END_QUOTE
 
-- DevOps: "Culture of continuous improvement in Software Development"
-  "DevOps is a culture that companies transformed into a role"
+"Culture of continuous improvement in Software Development" | "DevOps is a culture that companies transformed into a role"
 
 *** Level of companies maturation according to DevOps
 "Companies are like living beings"
@@ -46,13 +45,13 @@ What are Cloud Providers? "A could Service Provider, or CSP, is an IT company th
   - Propose and Create!
 
 **** Types of Companies
-#1 A Company that mantains a unique Software.
+- A Company that mantains a unique Software.
     - Tools and Strategies focused in only one solution, language, and problems.
-#2 A Company that mantains multiple Applications.
+- A Company that mantains multiple Applications.
     - More applications means higher complexity in the DevOps role.
-#3 A Company that offer DevOps Services.
+- A Company that offer DevOps Services.
     - Multiple Pathlines and Multiple challenges.
-#4 A Company that mantains multiple infrastructures.
+- A Company that mantains multiple infrastructures.
     - "Infrastructure like Code" - Automate Formats in Cloud Services.
       Automate Infrastructure Deployments.
 
@@ -60,4 +59,6 @@ The tasks, tools, and strategies will change on each company depending in the pr
 
 *** Taks of a DevOps Role
 - Deployment Automation.
+  - Move the code from a place to another. In an automatic way.
 - Infrastructure Automation.
+  - Take the infrastructure of a service or an app and deploy it in a Cloud Provider.
