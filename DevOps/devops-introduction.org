@@ -85,4 +85,5 @@ The DevOps role is focusing to help and automate strategies to improve the quali
   | Orchestration Tools | Environment Manipulation | Environment Variables Manipulation | Read Logs |
 - Tools to Learn
   | Dev Concepts | Lynux OS                | Networking & Security | CI/CD               | AWS Services | Language & Scripting |
-  | Docker       | Container Orchestration | Monitoring            | Code Infrastructure | GIT          |                      |
+
+  | Docker       | Container Orchestration | Monitoring            | Code Infrastructure | GIT          |
