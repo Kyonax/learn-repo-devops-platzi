@@ -1,0 +1,13 @@
+#+TITLE: Clusters Introduction
+#+AUTHOR: Kyonax - Cristian Moreno
+
+* Table of Contents :toc:
+  - [[#description][Description]]
+
+** Description
+#+BEGIN_QUOTE
+Cluster computing aggregates and coordinates a collection of virtual machines (VMS) to work together to perform a task. Clusters typically have a single head node (sometimes called a controller node), a number of compute nodes, and possibly some specialty nodes.
+#+END_QUOTE
+
+- Important Clusters to use
+  - Kubernetes & AWS ECS

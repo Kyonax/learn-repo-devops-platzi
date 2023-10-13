@@ -1,4 +1,0 @@
-#+TITLE: Version Control Tools
-#+AUTHOR: Kyonax - Cristian Moreno
-
-* Table of Contents :toc:

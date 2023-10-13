@@ -1,0 +1,16 @@
+#+TITLE: Version Control Tools
+#+AUTHOR: Kyonax - Cristian Moreno
+
+* Table of Contents :toc:
+  - [[#platforms-based-on-git][Platforms based on GIT:]]
+
+** Platforms based on GIT:
+- GitHub
+- Bitbucket
+- GitLab
+- GPC Cloud Source Repositories
+- AWS GitCommit
+- Azure Repo
+
+*** Basic Commands
+`clone` - `pull` - `commit` - `push`

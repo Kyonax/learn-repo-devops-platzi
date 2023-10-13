@@ -1,0 +1,13 @@
+#+TITLE: Orchestration Tools
+#+AUTHOR: Kyonax - Cristian Moreno
+
+* Table of Contents :toc:
+  - [[#description][Description]]
+
+** Description
+#+BEGIN_QUOTE
+Cloud orchestration tools enable systems to streamline resources, distribute workloads, and organize deployments across servers or cloud environments. Microsoft, IBM, Kubernetes, Terraform, Ansible, and Clodify all have popular cloud orchestration solutions.
+#+END_QUOTE
+
+- Tools
+  - Jenkins - AWS CodePipeline
