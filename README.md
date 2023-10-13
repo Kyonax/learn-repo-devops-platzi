@@ -49,9 +49,9 @@ In this path, you will learn about server administration and the main tools used
 Learn about the key tools for automating your processes and deploying your application. More information on the next ORG Files:
 
 - Introduction to DevOps and Tools
- - [DevOps Introduction Course](Notes/Introduction/devops-introduction.org)
- - [Cloud Providers Basics](Notes/Introduction/cloud-providers.org)
- - [Version Control Tools Basics](Notes/Introduction/version-control-tools.org)
- - [Clusters Introduction](Notes/Introduction/clusters-introduction.org)
- - [Orchestration Tools](Notes/Introduction/orchestration-tools.org)
- - [IaC Tools](Notes/Introduction/iac-tools.org)
+    - [DevOps Introduction Course](Notes/Introduction/devops-introduction.org)
+    - [Cloud Providers Basics](Notes/Introduction/cloud-providers.org)
+    - [Version Control Tools Basics](Notes/Introduction/version-control-tools.org)
+    - [Clusters Introduction](Notes/Introduction/clusters-introduction.org)
+    - [Orchestration Tools](Notes/Introduction/orchestration-tools.org)
+    - [IaC Tools](Notes/Introduction/iac-tools.org)
