@@ -1,0 +1,27 @@
+#+TITLE: Cloud Providers
+#+AUTHOR: Kyonax - Cristian Moreno
+
+* Table of Contents :toc:
+  - [[#responsibility-model][Responsibility Model]]
+
+** Responsibility Model
+The responsibility model is not the same when you hace a Local Server ~ Cloud Services:
+#+BEGIN_QUOTE
+The Shared Responsibility model is a security and compliance framework that outlines the responsibilities of cloud service providers (CSPs) and customers for securing every aspect of the cloud environment, including hardware, infrastructure, endpoints, data, configurations, settings, operating systems (OS), network controls and access rights.
+#+END_QUOTE
+
+*** Compute Services in Cloud Providers (based on the responsibility model)
+
+| Cloud Provider  | IaaS                        | PaaS              | CaaS                             | FaaS            |
+|-----------------+-----------------------------+-------------------+----------------------------------+-----------------|
+| AWS             | Elastic Compute Cloud (EC2) | Elastic Beanstalk | Elastic Kubernetes Service (EKS) | Lambda          |
+| Microsoft Azure | Virtual Machines            | App Service       | Azure Kubernetes Service (AKS)   | Functions       |
+| Google Cloud    | Compute Engine              | App Engine        | Kubernetes Engine                | Cloud Functions |
+
+*** Data Services in Cloud Providers (based on the responsibility model)
+
+| Cloud Provider  | Object Storage              | Relational                        | NoSQL          |
+|-----------------+-----------------------------+-----------------------------------+----------------|
+| AWS             | Simple Storage Service (S3) | Relational Database Service (RDS) | DynamoDB       |
+| Microsoft Azure | Blobs                       | SQL Database                      | Cosmos DB      |
+| Google Cloud    | Cloud Storage               | Cloud SQL                         | Cloud Bigtable |
