@@ -47,5 +47,6 @@ In this path, you will learn about server administration and the main tools used
 
 ### DevOps
 Learn about the key tools for automating your processes and deploying your application. More information on the next ORG Files:
- - [DevOps Introduction Course](DevOps & Cloud - Docs/devops-introduction.org)
- - [Cloud Providers Basics](DevOps-&-Cloud---Docs/cloud-providers.org)
+ - [DevOps Introduction Course](Notes/devops-introduction.org)
+ - [Cloud Providers Basics](Notes/cloud-providers.org)
+ - [Version Control Tools Basics](Notes/version-control-tools.org)
