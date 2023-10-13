@@ -18,6 +18,8 @@ The Shared Responsibility model is a security and compliance framework that outl
 | Microsoft Azure | Virtual Machines            | App Service       | Azure Kubernetes Service (AKS)   | Functions       |
 | Google Cloud    | Compute Engine              | App Engine        | Kubernetes Engine                | Cloud Functions |
 
+| IaaS: Infrastructure as a Service | PaaS: Platform as a Service | CaaS: Containers as a Service | FaaS: Function as a Service|
+
 *** Data Services in Cloud Providers (based on the responsibility model)
 
 | Cloud Provider  | Object Storage              | Relational                        | NoSQL          |
