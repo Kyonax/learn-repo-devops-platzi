@@ -3,6 +3,8 @@
 
 * Table of Contents :toc:
   - [[#responsibility-model][Responsibility Model]]
+  - [[#compute-services-in-cloud-providers][Compute Services in Cloud Providers]]
+  - [[#data-services-in-cloud-providers][Data Services in Cloud Providers]]
 
 ** Responsibility Model
 The responsibility model is not the same when you hace a Local Server ~ Cloud Services:
@@ -10,7 +12,7 @@ The responsibility model is not the same when you hace a Local Server ~ Cloud Se
 The Shared Responsibility model is a security and compliance framework that outlines the responsibilities of cloud service providers (CSPs) and customers for securing every aspect of the cloud environment, including hardware, infrastructure, endpoints, data, configurations, settings, operating systems (OS), network controls and access rights.
 #+END_QUOTE
 
-*** Compute Services in Cloud Providers (based on the responsibility model)
+** Compute Services in Cloud Providers
 
 | Cloud Provider  | IaaS                        | PaaS              | CaaS                             | FaaS            |
 |-----------------+-----------------------------+-------------------+----------------------------------+-----------------|
@@ -18,11 +20,11 @@ The Shared Responsibility model is a security and compliance framework that outl
 | Microsoft Azure | Virtual Machines            | App Service       | Azure Kubernetes Service (AKS)   | Functions       |
 | Google Cloud    | Compute Engine              | App Engine        | Kubernetes Engine                | Cloud Functions |
 
-**** Definitions
+*** Definitions
 
 | IaaS: Infrastructure as a Service | PaaS: Platform as a Service | CaaS: Containers as a Service | FaaS: Function as a Service|
 
-*** Data Services in Cloud Providers (based on the responsibility model)
+** Data Services in Cloud Providers
 
 | Cloud Provider  | Object Storage              | Relational                        | NoSQL          |
 |-----------------+-----------------------------+-----------------------------------+----------------|
