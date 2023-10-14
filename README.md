@@ -38,7 +38,7 @@ This repo is NOT replacing or transcribing any information that you can find in 
 - *Complementary Skills*
 
 # Curriculum
-**Curriculum version**: `0.1.0`
+**Curriculum version**: `0.1`
 - [Intro DevOps & Cloud Computing](#intro-devops-&-cloud-computing)
   - [DevOps](#devops)
 
