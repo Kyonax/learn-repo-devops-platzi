@@ -30,9 +30,9 @@ What are Cloud Providers? "A could Service Provider, or CSP, is an IT company th
 #+END_QUOTE
 
 #+BEGIN_QUOTE
-What is CI (Continuos Integration)?
+What is CI (Continuos Integration)? Is the practice of automating the integration of code changes from multiple contribuitors into a single software project.
 
-What is CD (Continuos Delivery)?
+What is CD (Continuos Delivery)? Is an approach for software delivery in which development teams produce and test code in short but continuous cycles, usually with high degrees of automation.
 #+END_QUOTE
 
 DevOps is a Culture of continuous improvement in Software Development also a culture that companies transformed into a role.
