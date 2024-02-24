@@ -108,3 +108,30 @@ The DevOps role is focusing to help and automate strategies to improve the quali
 - [ ] Pipeline for a Relational Database [0/2]
   - [ ] SQL
   - [ ] NO SQL
+
+
+ TERRAFORM
+ KUBERNETES
+    DOCKER
+    GO
+    RUST - IN THE CASE
+ AWS
+ POSTGRESQL
+
+ Incentivos - Credit Score
+ Puntos de Credito
+ Automotriz Clientes - Apalancamiento
+
+ Mayor ventas Beneficios / Empleados de la Compa;ia
+
+ JAVA - ANGULAR - REACT - POLIMER
+ SQL SERVER - SERVIDORES RED HAT
+ DATA CENTER - GOOGLE CLOUD
+
+ HTML - CSS - ANGULAR
+ AGIL - SESSION DAILY - +15min
+
+ MONOLITICOS - MAINTAIN APPLICATIONS
+
+ FONTEND - BACKEND - QA
+ ADAPTABILIDAD
